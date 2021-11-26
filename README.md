@@ -1,4 +1,4 @@
-# Recriando page de longin do Instagram 
+# Recriando page de login do Instagram 
 
 * Replicando o site do Instagram
 
